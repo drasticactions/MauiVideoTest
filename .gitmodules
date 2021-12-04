@@ -1,0 +1,4 @@
+[submodule "external/vlc"]
+	path = external/vlc
+	url = git@github.com:drasticactions/libvlcsharp.git
+	branch = net6
